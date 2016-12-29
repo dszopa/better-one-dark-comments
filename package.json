@@ -1,0 +1,16 @@
+{
+  "name": "better-one-dark-comments-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A clone of the One Dark syntax theme with the color for comments made more readable.",
+  "keywords": [
+    "comments"
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/dszopa/better-one-dark-comments-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
