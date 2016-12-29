@@ -11,6 +11,6 @@
   "repository": "https://github.com/dszopa/better-one-dark-comments-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">0.50.0"
   }
 }
